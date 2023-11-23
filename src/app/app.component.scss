@@ -1,0 +1,31 @@
+.sidenav-content {
+    height: 100%;
+}
+.sidenav-container {
+     height: 100%;
+    display: block;
+    z-index: 2;
+}
+
+mat-nav-list i {
+    display: block;
+    width: 30px;
+}
+
+mat-sidenav {
+    width: 200px;
+}
+
+.main-nav-list {
+    .mat-mdc-list-item {
+        height: 48px !important;
+    }
+}
+
+.sidenav {
+    width: 200px;
+}
+
+.align-right {
+    text-align: right;
+}
